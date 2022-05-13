@@ -5,7 +5,9 @@ Finally, you’ll submit a written report that summarizes how the data differs b
 
 # Results
 Summary of Total Rides per city type 
+
 ![image](https://user-images.githubusercontent.com/96134924/168345629-7522470d-a1fb-4650-ae4e-bbf321051bad.png)
 
 Total Fare by City Type
+
 ![image](https://user-images.githubusercontent.com/96134924/168345847-20f3d231-e119-4a34-b02b-7df3fb7c66e6.png)
